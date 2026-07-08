@@ -1,0 +1,6 @@
+name: paper-story-builder
+version: 0.1.0
+short_description: Build paper story chains and manuscript drafts from approved topic/model outputs.
+description: Uses paper-topic-builder and paper-model-builder outputs plus a benchmark article PDF to generate story chains, Introduction/Theory/Hypotheses drafts, contribution statements, manuscript skeletons, and reviewer-style checks.
+author: 视频号扣子说AI
+license: MIT
